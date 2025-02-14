@@ -84,7 +84,7 @@ To use the notebooks, follow these steps:
    ```bash
    jupyter notebook
    ```
-5. Select and explore any assignment notebook.
+5. This will launch Jupyter in your browser. Navigate to Telecom_Churn_Prediction_Project.ipynb and open it.
 
 
 📌 **Star this repository if you find it useful!**
