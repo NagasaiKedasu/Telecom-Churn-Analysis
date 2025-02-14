@@ -65,6 +65,27 @@ The dataset consists of telecom customer records with features such as:
 - **Expensive international charges** contribute to customer loss.
 - The predictive model helps **identify potential churners early**, allowing telecom providers to act proactively.
 
----
+## 🚀 Getting Started
+To use the notebooks, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/data-science-assignments.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd data-science-assignments
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+5. Select and explore any assignment notebook.
+
+
 📌 **Star this repository if you find it useful!**
 
