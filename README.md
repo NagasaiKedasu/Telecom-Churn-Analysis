@@ -1,7 +1,5 @@
 # Telecom-Churn-Analysis
 
-# Telecom Churn Prediction
-
 ## 📌 Project Overview
 This project focuses on predicting customer churn in the telecom industry using **machine learning**. The goal is to analyze key factors contributing to churn and develop a model for proactive customer retention strategies.
 
