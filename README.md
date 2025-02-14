@@ -70,11 +70,11 @@ To use the notebooks, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Telecom-Churn-Analysis/data-science-assignments.git
+   git clone https://github.com/NagasaiKedasu/Telecom-Churn-Analysis.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd data-science-assignments
+   cd Telecom-Churn-Analysis
    ```
 3. Install the required dependencies:
    ```bash
